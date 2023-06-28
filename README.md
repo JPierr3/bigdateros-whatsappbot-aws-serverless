@@ -2,7 +2,7 @@
 # AWS Serverlers + Whatsapp Bot + Python
 
 Impulsa tu negocio con un bot usando las apis oficiales de whatsapp.
-pueden ver el video paso a paso en el siguiente enlace para ver como utilizarlo: [https://youtu.be/puYWiZDJnL0](https://youtu.be/kkrv6ABg-bQ)
+pueden ver el video paso a paso en el siguiente enlace para ver como utilizarlo: https://github.com/JPierr3/bigdateros-whatsappbot-aws-serverless.git
 
 ## Descarga el proyecto
 
